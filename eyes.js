@@ -1,3 +1,20 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="./styles.css">
+    </head>
+    <body>
+        <div class="eyes">
+            <div class="eye">
+                <div class="ball"></div>
+            </div>
+            <div class="eye">
+                <div class="ball"></div>
+            </div>
+        </div>
+        <script src="./eyes.js"></script>
+    </body>
+</html>
+
 const balls = document.getElementsByClassName('ball');
 document.onmousemove = (event) => {
   const x = (event.clientX * 100) / window.innerWidth + '%';
