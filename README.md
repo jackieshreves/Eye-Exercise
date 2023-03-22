@@ -1,3 +1,5 @@
-# Eye Exercise
-### The purpose of this assignment was to use stater code of one eye that would track mouse movement and build on that to create second eye with the same function.
+# Eye Movement Repo
+<a href="https://github.com/jackieshreves/jackieshreves.github.io.git"> Eyes Exercise </a>  
+<br>
+We were given starter code in this file to take one eye, which tracked mouse movements, and use it to create a second eye that served the same function.
 <img src= "oneeye.png" width='300'/>
